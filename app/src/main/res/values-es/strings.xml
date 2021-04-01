@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi aplicación</string>
+    <string name="splashimage">salpicadura</string>
+    <string name="lociconimage">imageIcon</string>
+    <string name="newPageButton">Información de canchas de baloncesto</string>
+    <string name="camera">Cámara</string>
+    <string name="background_music">Reproducir música de fondo</string>
+    <string name="stop_music">Stop Backgound Music Música</string>
+    <string name="homeButton">Casa</string>
+    <string name="recordButton">Grabar</string>
+    <string name="infoPageText">Información de baloncesto</string>
+    <string name="sms">SMS</string>
+    <string name="enter_phone_number_here">Ingrese el número de teléfono aquí</string>
+    <string name="enter_message_here">Ingrese el mensaje aquí</string>
+    <string name="call">Llamada</string>
+    <string name="pick_up_basketball">Recoger baloncesto</string>
+    <string name="FindCourts">Encuentra canchas de baloncesto</string>
+    <string name="infoImage">infoImage</string>
+    <string name="locationPage">Ubicación de las canchas de baloncesto</string>
+    <string name="SworkdsSkatepark">Swords Skatepark - Castlefarm, Swords, Co. Dublin</string>
+    <string name="fairviewBasketballCourt">Faiview Park Basketball Court - Clontarf West, Dublin</string>
+    <string name="locationpage">Información de canchas de baloncesto</string>
+    <string name="stAnnesCourt">St Annes Court - Clontard East, Raheeny, Co. Dublin</string>
+    <string name="stVincentBasketball">St Vincent\'s Basketball Court - St Philomena\'s Rd, Glasnevin, Dublin</string>
+    <string name="ringSendBasketball">RingSend Basketball Court - 131 Ringsend Park, Dublin 4</string>
+    <string name="sandyfordBasketball"> Sandyford Basketball Court - Moreen Park, Blackthorn, Dublin</string>
+    <string name="mountjoyBasketball">Mountjoy Basketbll Court - Mountjoy Square, Mountjoy, Dublin</string>
+    <string name="Location"> Ubicación </string>
+    <string name="title_activity_location">Map</string>
+
+</resources>

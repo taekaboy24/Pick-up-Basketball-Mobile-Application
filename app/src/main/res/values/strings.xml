@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="splashimage">splashimage</string>
+    <string name="lociconimage">imageIcon</string>
+    <string name="newPageButton">Basketball Courts Info</string>
+    <string name="camera">Camera</string>
+    <string name="background_music">Play Background Music</string>
+    <string name="stop_music">Stop Backgound Music</string>
+    <string name="homeButton">Home</string>
+    <string name="recordButton">Record</string>
+    <string name="infoPageText">Basketball Info</string>
+    <string name="sms">SMS</string>
+    <string name="enter_phone_number_here">Enter phone number here</string>
+    <string name="enter_message_here">Enter message here</string>
+    <string name="call">Call</string>
+    <string name="pick_up_basketball">Pick Up Basketball</string>
+    <string name="FindCourts">Find Basketball Courts</string>
+    <string name="infoImage">infoImage</string>
+    <string name="locationPage">Basketball Courts Location</string>
+    <string name="SworkdsSkatepark">Swords Skatepark - Castlefarm, Swords, Co. Dublin</string>
+    <string name="fairviewBasketballCourt">Faiview Park Basketball Court - Clontarf West, Dublin</string>
+    <string name="locationpage">Basketball Courts Info</string>
+    <string name="stAnnesCourt">St Annes Court - Clontard East, Raheeny, Co. Dublin</string>
+    <string name="stVincentBasketball">St Vincent\'s Basketball Court - St Philomena\'s Rd, Glasnevin, Dublin</string>
+    <string name="ringSendBasketball">RingSend Basketball Court - 131 Ringsend Park, Dublin 4</string>
+    <string name="sandyfordBasketball"> Sandyford Basketball Court - Moreen Park, Blackthorn, Dublin</string>
+    <string name="mountjoyBasketball">Mountjoy Basketbll Court - Mountjoy Square, Mountjoy, Dublin</string>
+    <string name="Location"> Location </string>
+    <string name="title_activity_location">Map</string>
+</resources>
